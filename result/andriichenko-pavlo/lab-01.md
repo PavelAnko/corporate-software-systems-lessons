@@ -1,4 +1,4 @@
-# Clone corporate software lessons
+# Clone corporate software lessons 
 
 > [@GitHub](plugin://github@openai-curated-remote) [https://github.com/PavelAnko/corporate-software-systems-lessons](https://github.com/PavelAnko/corporate-software-systems-lessons) склонуй репозиторій в "C:\Users\Lenovo\OneDrive\Робочий стіл\ESS"
 
